@@ -1,3 +1,6 @@
 https://bitcoinpost.ru
 https://slabber.io
 https://mail.slabber.io/sso/login
+tcp://167.235.241.17:22
+tcp://167.235.241.17:80
+tcp://167.235.241.17:443
