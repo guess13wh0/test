@@ -2,3 +2,4 @@ https://bitcoinpost.ru
 https://slabber.io
 https://mail.slabber.io/sso/login
 https://slabber.io:50001
+http://goroda.bluesystem.me
