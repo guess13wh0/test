@@ -11,5 +11,4 @@ http://i.bluesystem.me
 http://a.bluesystem.me	
 http://doski.bluesystem.me	
 http://mail.bluesystem.me	
-http://bbs.bluesystem.me	
-https://anti-sushi.ru
+http://bbs.bluesystem.me
